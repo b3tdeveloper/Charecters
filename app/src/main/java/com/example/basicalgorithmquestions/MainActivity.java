@@ -81,8 +81,8 @@ public class MainActivity extends AppCompatActivity {
         //Find some easy way for do that
 
         if (name.startsWith("A")|| name.startsWith("a")){
-          binding.backgroundImageView.setImageResource(R.drawable.astra);
-          binding.characterDetail.setText("Astra, a valorant character");
+          binding.backgroundImageView.setImageResource(R.drawable.alistar);
+          binding.characterDetail.setText("Alistar, a league of legends character");
         }else if (name.startsWith("B")|| name.startsWith("b")){
             binding.backgroundImageView.setImageResource(R.drawable.brimstone);
             binding.characterDetail.setText("Brimstone, a valorant character");
