@@ -1,5 +1,5 @@
 # Charecters
-Some characters beginning with the first letter of your name
+Some League of Legends characters beginning with the first letter of your name
 
 Basic Algorithm Question 1
 
